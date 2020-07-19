@@ -1,4 +1,4 @@
-![http://halofanforlife.com/?p=15205](https://raw.githubusercontent.com/SAPMarco/SAPMarco/master/pictures/halo-master-chief-collection.jpg "Halo Master Chief Collection Banner")
+![http://halofanforlife.com/?p=15205](https://raw.githubusercontent.com/SAPMarco/SAPMarco/master/pictures/halo_infinite_banner.png "Halo Master Chief Collection Banner")
 
 
 ### Hi there 👋
@@ -6,6 +6,9 @@
 * [PersonalPage](https://sapmarco.github.io/)
 * [Wiki](https://github.com/SAPMarco/SAPMarco.github.io/wiki)
 <!--
+
+Banner Credits: https://www.halowaypoint.com/en-us/forums/29568daf8cd14083bd1b70a810bf3581/topics/halo-infinite-2019---screenshots-gifs-banners/04726fbf-c484-42da-a99e-7b4e2e3b8790/posts
+
 **SAPMarco/SAPMarco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
