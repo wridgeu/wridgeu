@@ -1,24 +1,9 @@
 ![http://halofanforlife.com/?p=15205](https://raw.githubusercontent.com/SAPMarco/SAPMarco/master/pictures/halo_infinite_banner.png "Halo Master Chief Collection Banner")
 
+### [Hello there](https://youtu.be/rEq1Z0bjdwc?t=8) 👋
 
-### Hi there 👋
+
 
 * [📑 PersonalPage](https://sapmarco.github.io/)
 * [📄 Wiki](https://github.com/SAPMarco/SAPMarco.github.io/wiki)
-<!--
-
-Banner Credits: https://www.halowaypoint.com/en-us/forums/29568daf8cd14083bd1b70a810bf3581/topics/halo-infinite-2019---screenshots-gifs-banners/04726fbf-c484-42da-a99e-7b4e2e3b8790/posts
-
-**SAPMarco/SAPMarco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Banner Credits: https://www.halowaypoint.com/en-us/forums/29568daf8cd14083bd1b70a810bf3581/topics/halo-infinite-2019---screenshots-gifs-banners/04726fbf-c484-42da-a99e-7b4e2e3b8790/posts -->
