@@ -2,7 +2,11 @@
 
 ### [Hello there](https://youtu.be/rEq1Z0bjdwc?t=8) 👋
 
-
+<script
+    id="sap-ui-bootstrap"
+    src="https://ui5.sap.com/resources/sap-ui-integration.js" preload>
+</script>
+<ui-integration-card manifest="./manifest.json"></ui-integration-card>
 
 * [📑 PersonalPage](https://sapmarco.github.io/)
 * [📄 Wiki](https://github.com/SAPMarco/SAPMarco.github.io/wiki)
