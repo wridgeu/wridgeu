@@ -1,6 +1,6 @@
 ![http://halofanforlife.com/?p=15205](https://raw.githubusercontent.com/wridgeu/wridgeu/master/pictures/halo_infinite_banner.png "Halo Master Chief Collection Banner")
 
-### [Hello there](https://youtu.be/rEq1Z0bjdwc?t=8) 👋
+### [Hello there](https://youtu.be/rEq1Z0bjdwc?t=8) <img src="https://raw.githubusercontent.com/SAPMarco/SAPMarco/master/pictures/wave.gif" width="20px">
 
 * [📑 PersonalPage](https://wridgeu.github.io/)
 * [📄 Wiki](https://github.com/wridgeu/wridgeu.github.io/wiki)
