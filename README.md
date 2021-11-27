@@ -1,4 +1,4 @@
-![http://halofanforlife.com/?p=15205](https://raw.githubusercontent.com/wridgeu/wridgeu/master/pictures/halo_infinite_banner.png "Halo Master Chief Collection Banner")
+![](https://raw.githubusercontent.com/wridgeu/wridgeu/master/pictures/Arcane_Intro_League.jpg "Arcane - League of Legends")
 
 ### [Hello there](https://youtu.be/rEq1Z0bjdwc?t=8) <img src="https://raw.githubusercontent.com/wridgeu/wridgeu/master/pictures/wave.gif" width="20px">
 
