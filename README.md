@@ -17,6 +17,7 @@ I also love helping and teaching others, that is ... as far as I can. ☺️
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Wridgeu)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-marco-beier/)
+[![SAP Community](https://img.shields.io/badge/Community-0C7ECF?style=flat&logo=SAP&logoColor=white)](https://people.sap.com/marcobeier)
 [![XING](https://img.shields.io/badge/XING-cfdc00?style=flat&logo=Xing&logoColor=white)](https://www.xing.com/profile/Marco_Beier8/cv)
 
 <hr />
