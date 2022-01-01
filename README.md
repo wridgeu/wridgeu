@@ -1,4 +1,4 @@
-<img alt="Intro Wallpaper from the League of Legends series Arcane" src="https://raw.githubusercontent.com/wridgeu/wridgeu/master/pictures/Arcane_Intro_League.jpg" />
+<img alt="Intro Wallpaper from the League of Legends series Arcane" src="https://raw.githubusercontent.com/wridgeu/wridgeu/master/pictures/Arcane_Intro_League.png" />
 
 ### [Hello there](https://youtu.be/rEq1Z0bjdwc?t=8) <img src="https://raw.githubusercontent.com/wridgeu/wridgeu/master/pictures/wave.gif" width="20px">
 
