@@ -24,6 +24,7 @@ I also love helping and teaching others, that is ... as far as I can. ☺️
 
 <details>
   <summary><b>GitHub Statistics</b></summary>
+  <br>
   <div>
     <img height="200px" src="https://github-readme-stats.vercel.app/api?username=wridgeu&show_icons=truetheme=great-gatsby&count_private=true&theme=dark&custom_title=Stats" />
   </div>
