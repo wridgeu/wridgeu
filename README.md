@@ -11,7 +11,7 @@ I also love helping and teaching others, that is ... as far as I can. ☺️
 <br>
 
 * [📑 PersonalPage](https://wridgeu.github.io/) (demo/learning project)
-* [📄 Wiki](https://github.com/wridgeu/wridgeu.github.io/wiki)
+* [📄 Wiki](https://github.com/wridgeu/wridgeu.github.io/wiki) (mostly notes from learning UI5)
 
 <br>
 
