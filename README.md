@@ -17,9 +17,9 @@ I also love helping and teaching others, that is ... as far as I can. ☺️
 <br>
 
 [![BlueSky](https://img.shields.io/badge/BlueSky-0285FF?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/wridgeu.bsky.social)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Wridgeu)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-marco-beier/)
-[![SAP Community](https://img.shields.io/badge/Community-0C7ECF?style=flat&logo=SAP&logoColor=white)](https://profile.sap.com/profile/id9048550071c9992e02ec40153ae8e09d5d40bf1a22213884371245745ee5e2a5)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/Wridgeu)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5)](https://linkedin.com/in/dev-marco-beier/)
+[![SAP Community](https://img.shields.io/badge/Community-0C7ECF?style=flat&logo=SAP&logoColor=darkblue)](https://profile.sap.com/profile/id9048550071c9992e02ec40153ae8e09d5d40bf1a22213884371245745ee5e2a5)
 
 <hr />
 
