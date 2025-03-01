@@ -6,20 +6,20 @@ Interesting approach to introduce CSS into this .md by using SVGs [foreignObject
 
 My name is Marco 👋 
 
-I mostly do [ABAP](https://se38.myspreadshop.de/abaps+not+dead-A5d82e004b264a16d3e4142ed?productType=812) development in my regular job but love spending my free time on OSS, Web Development and lots of other interesting things and technologies. I also enjoy code reviews as well as talking about code and how to improve on it, so don't be afraid to message me. 🎤🐛 I'm open for any kind of feedback and always willing to learn & improve. Even more so since I'm completely self-taught in basically everything I do. 😶‍🌫️
+I mostly do [ABAP](https://se38.myspreadshop.de/abaps+not+dead-A5d82e004b264a16d3e4142ed?productType=812) development in my regular job but love spending my free time on OSS, Web Development and lots of other interesting things and technologies. I also enjoy code reviews as well as talking about code and how to improve on it, so don't be afraid to message me. 🎤🐛 I'm open for any kind of feedback and always willing to learn & improve. Even more so since I'm mostly self-taught in basically everything I do. 😶‍🌫️
 
 I also love helping and teaching others, that is ... as far as I can. ☺️
 
 <br>
 
-* [📑 PersonalPage](https://wridgeu.github.io/) (demo/learning project)
+* [📑 PersonalPage](https://wridgeu.github.io/) (demo/learning project, 🏗️ *not* actively maintained)
 
 <br>
 
+[![BlueSky](https://img.shields.io/badge/BlueSky-0285FF?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/wridgeu.bsky.social)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Wridgeu)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-marco-beier/)
-[![SAP Community](https://img.shields.io/badge/Community-0C7ECF?style=flat&logo=SAP&logoColor=white)](https://people.sap.com/marcobeier)
-[![XING](https://img.shields.io/badge/XING-cfdc00?style=flat&logo=Xing&logoColor=white)](https://www.xing.com/profile/Marco_Beier8/cv)
+[![SAP Community](https://img.shields.io/badge/Community-0C7ECF?style=flat&logo=SAP&logoColor=white)](https://profile.sap.com/profile/id9048550071c9992e02ec40153ae8e09d5d40bf1a22213884371245745ee5e2a5)
 
 <hr />
 
@@ -33,6 +33,6 @@ I also love helping and teaching others, that is ... as far as I can. ☺️
 <details>
   <summary>📄 <a href="https://github.com/wridgeu/wridgeu.github.io/wiki">UI5 Wiki</a> (old notes from learning UI5, ~2020-2021)</summary>
   <div>
-    Old notes from learning Web Development, or more specific, UI5 back around in 2020-2021. They're not updated anymore as the overall <a href="https://ui5.sap.com/">documentation of UI5</a> and it's <a href="https://github.com/ui5-community">ecosystem</a> has evolved a <em>lot</em>. I strongly recommend and encourage checking out the <a href="https://ui5.sap.com/">docs</a> to get started! Nowadays the "Wiki" is mostly used as playground for it's integration into my <a href="https://wridgeu.github.io/">personal page</a>.
+    Old notes from learning Web Development, or more specific, my personal *deep dive* into UI5 back in ~2020-2021. They're not kept up to date. The overall <a href="https://ui5.sap.com/">documentation of UI5</a> and its <a href="https://github.com/ui5-community">ecosystem</a> have evolved a <em>lot</em>. I strongly recommend and encourage checking out the <a href="https://ui5.sap.com/">docs</a> to get started! The "Wiki" was only used as playground for its integration into my <a href="https://wridgeu.github.io/">(now obsolete) personal page</a>.
   </div>
 </details>
