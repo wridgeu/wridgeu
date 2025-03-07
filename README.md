@@ -12,10 +12,6 @@ I also love helping and teaching others, that is ... as far as I can. ☺️
 
 <br>
 
-* [📑 PersonalPage](https://wridgeu.github.io/) (demo/learning project, 🏗️ *not* actively maintained)
-
-<br>
-
 [![BlueSky](https://img.shields.io/badge/BlueSky-0285FF?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/wridgeu.bsky.social)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/Wridgeu)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5)](https://linkedin.com/in/dev-marco-beier/)
@@ -34,5 +30,8 @@ I also love helping and teaching others, that is ... as far as I can. ☺️
   <summary>📄 <a href="https://github.com/wridgeu/wridgeu.github.io/wiki">UI5 Wiki</a> (old notes from learning UI5, ~2020-2021)</summary>
   <div>
     Old notes from learning Web Development, or more specific, my personal *deep dive* into UI5 back in ~2020-2021. They're not kept up to date. The overall <a href="https://ui5.sap.com/">documentation of UI5</a> and its <a href="https://github.com/ui5-community">ecosystem</a> have evolved a <em>lot</em>. I strongly recommend and encourage checking out the <a href="https://ui5.sap.com/">docs</a> to get started! The "Wiki" was only used as playground for its integration into my <a href="https://wridgeu.github.io/">(now obsolete) personal page</a>.
+    <br>
+    <br>
+      <a href="https://wridgeu.github.io/">📑 PersonalPage</a> (demo/learning project, 🏗️ *not* actively maintained)
   </div>
 </details>
